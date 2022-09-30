@@ -1,0 +1,57 @@
+.trendingPost {
+    margin-top: 6%;
+    margin-left: 3%;
+}
+
+.image {
+    width: 80%;
+    margin: 0px 10%;
+    height: 45vw;
+}
+
+.latestpost {
+    font-family: Raleway, sans-serif;
+    font-size: 15px;
+    margin-left: 10%;
+    color: #000000cf;
+}
+
+.filter {
+    display: flex;
+}
+
+.filterIcon {
+    margin-left: 10%;
+    width: 40px;
+    height: 40px;
+    display: inline-block
+}
+
+.filterbycategory {
+    margin-top: -0.8px;
+    margin-left: 10px;
+    color: #040404d8;
+}
+
+.Courses {
+    margin: 0% 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.coursesName {
+    margin: 10px;
+    border: 2px solid;
+    padding: 8px;
+    border-radius: 15px;
+    color: #0084ff;
+}
+
+
+.coursesName:hover{
+    background-color: rgb(48, 48, 126);
+    color: cornsilk;
+    font-size: larger;
+    box-shadow: 2px 2px 2px blue;
+}
